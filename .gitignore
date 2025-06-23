@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,intellij,java,visualstudiocode
 
 ### INFLEARN 강의자료
-.java-basic-v20241111
+/java-basic-v20241111
 
 
 ### Intellij ###
