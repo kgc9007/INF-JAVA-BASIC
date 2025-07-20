@@ -218,8 +218,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# .idea 제외
+*.idea
+
 ### INFLEARN 강의자료
 /java-basic-v20241111
 /java-basic
+/java-basic-src
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,java,intellij,visualstudiocode
